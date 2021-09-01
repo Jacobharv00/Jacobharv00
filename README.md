@@ -3,8 +3,8 @@
      😄 Pronouns: he/him </br>
      🏔️ Based: Colorado </br>
      👨🏽‍💻 Currently working on: Mod 5 capstone project for Flatiron School software engineering program </br>
-     🌱 Currently learning: How to build full stack applications </br>
-     📚 🎮 After hours: Reading and playing video games cometitively </br>
+     🌱  Currently learning: How to build full stack applications </br>
+     📚 🎮  After hours: Reading and playing video games cometitively </br>
 </br>
 
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacobharv00&count_private=true&show_icons=true&theme=dark)
