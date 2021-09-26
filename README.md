@@ -4,7 +4,7 @@
      🏔️ Based: Breckenridge, Colorado </br>
      👨🏽‍💻 Currently working on: Building a new portfolio site with React instead of vanilla JavaScript </br>
      🤔 🌱 Currently learning: Algorithms & Data Structures </br>
-     📚 🤍 😸 🎬 💪 🏄🏻‍♂️ 🎮 After hours: Reading, watching movies with my fiance & cat, watching surfing videos, working out, video games </br> 
+     📚 🤍 😸 🎬 💪 🏄🏻‍♂️ 🎮  After hours: Reading, watching movies with my fiance & cat, watching surfing videos, working out, video games </br> 
 </br>
 
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacobharv00&count_private=true&show_icons=true&theme=dark)
