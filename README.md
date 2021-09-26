@@ -1,10 +1,10 @@
 <div align="center">
   <h1> 🏄‍♂️ Hi there, I'm Jacob <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
      😄 Pronouns: he/him </br>
-     🏔️ Based: Colorado </br>
-     👨🏽‍💻 Currently working on: Mod 5 capstone project for Flatiron School software engineering program </br>
-     🌱  Currently learning: How to build full stack applications </br>
-     📚 🎮  After hours: Reading and playing video games competitively </br> 
+     🏔️ Based: Breckenridge, Colorado </br>
+     👨🏽‍💻 Currently working on: Building a new portfolio site with React instead of vanilla JavaScript </br>
+     🌱  Currently learning: Algorithms & Data Structures </br>
+     📚 🤍 😸 🎬 💪 🏄🏻‍♂️ 🎮 After hours: Reading, watching movies with my fiance & cat, watching surfing videos, working out, playing video games competitively </br> 
 </br>
 
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacobharv00&count_private=true&show_icons=true&theme=dark)
