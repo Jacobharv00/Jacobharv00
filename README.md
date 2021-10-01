@@ -16,5 +16,5 @@
     <a target="_blank"href="https://www.linkedin.com/in/jacobharvey19/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:jacobharv00@gmail.com?subject=Hello%20Jacob"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Jacobharv00&theme=tokyonight&no-bg=true)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Jacobharv00&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
