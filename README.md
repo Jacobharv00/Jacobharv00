@@ -11,10 +11,11 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacobharv00&theme=dark)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jacobharv00&theme=tokyonight&no-bg=true)](https://github.com/Jacobharv00?tab=repositories)
+
 <h2 align="center">📫 Say Hi!</h2>
   <p align="center">
     <a target="_blank"href="https://www.linkedin.com/in/jacobharvey19/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:jacobharv00@gmail.com?subject=Hello%20Jacob"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Jacobharv00&theme=tokyonight)](https://github.com/Jacobharv00?tab=repositories)
 </div>
