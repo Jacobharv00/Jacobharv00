@@ -2,7 +2,7 @@
   <h1> 🏄‍♂️ Hi there, I'm Jacob <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
      😄 Pronouns: he/him </br>
      🏔️ Based: Breckenridge, Colorado </br>
-     👨🏽‍💻 Currently working on: Building a new portfolio site in React</br>
+     👨🏽‍💻 Currently working on: Building e-commerce website</br>
      🤔 🌱 Currently learning: Algorithms & Data Structures </br>
      📚 🤍 😸 🎬 💪 🏄🏻‍♂️ 🎮  After hours: Reading, watching movies with my fiance & cat, watching surfing videos, working out, video games </br> 
 </br>
