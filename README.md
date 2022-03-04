@@ -2,8 +2,8 @@
   <h1> 🏄‍♂️ Hi there, I'm Jacob <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
      😄 Pronouns: He/Him </br>
      🏔️ Based: Breckenridge, Colorado </br>
-     👨🏽‍💻 Currently working on: Building Web3.0 application</br>
-     🤔 🌱 Currently learning: Algorithms & Data Structures, react-testing-libary, Web3.0</br>
+     👨🏽‍💻 Currently working on: Building a react-native application</br>
+     🤔 🌱 Currently learning: Algorithms & Data Structures, react-testing-libary, Web3.0, react-native</br>
      📚 🤍 😸 🎬 💪 🏄🏻‍♂️ 🎮  After hours: Reading, watching movies with my fiance & cat, watching surfing videos, working out, video games </br> 
 </br>
 
