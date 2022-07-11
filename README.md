@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 🏄‍♂️ Hi there, I'm Jacob <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h1> 🏄‍♂️ Hi there, I'm Jacob <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50px"></h1>
      😄 Pronouns: He/Him </br>
      🏔️ Based: Breckenridge, Colorado </br>
      👨🏽‍💻 Currently working on: Building a react-native application</br>
