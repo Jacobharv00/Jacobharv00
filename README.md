@@ -3,7 +3,8 @@
      😄 Pronouns: He/Him </br>
      🏔️ Based: Breckenridge, Colorado </br>
      👨🏽‍💻 Currently working on: My learning</br>
-     🤔 🌱 Currently learning: Solidity, C#, .Net Core</br>
+     🤔 🌱 Currently learning: C#, .Net Core, Entity Framework, DevOps(Bitrise)
+ </br>
      📚 🤍 😸 🎬 💪 🏄🏻‍♂️ 🎮  After hours: Reading dystopian books, watching movies with my wife & cat, surfing videos, exercise, video games </br> 
 </br>
 
