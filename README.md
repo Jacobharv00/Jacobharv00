@@ -5,7 +5,7 @@
      👨🏽‍💻 Currently working on: <a href="https://github.com/tellesiivan/vamo-app">VAMO</a></br>
      🤔 🌱 Currently learning: C#, DotNet Web API, Entity Framework, DevOps(Bitrise)</br>
      📚 🤍 😸 🎬 💪 🏄🏻‍♂️ 🎮  After hours: Reading dystopian books, watching movies with my wife & cats, surfing videos, exercise, video games </br>
-     👨‍💻 All of my projects are available at: <a href="https://jacobharv.com/">Portfolio</a></br>
+     👨‍💻 Projects & a little more about me available at: <a href="https://jacobharv.com/">Portfolio</a></br>
      📄 Know about my experiences: <a href="https://postimg.cc/HrhKCfc9">Resume</a>
 </br></br>
 
