@@ -5,8 +5,8 @@
      👨🏽‍💻 Currently working on: A new react-native app for iOS & Android</br>
      🤔 🌱 Currently learning: C#, DotNet Web API, Entity Framework, DevOps(Bitrise), Solidity</br>
      📚 🤍 😸 🎬 💪 🏄🏻‍♂️ 🎮  After hours: Reading dystopian books, watching movies with my wife & cats, surfing videos, exercise, video games </br>
-     👨‍💻 Projects & a little more about me available at: <a href="https://jacobharv.com/">Portfolio</a></br>
-     📄 Know about my experiences: <a href="https://postimg.cc/HrhKCfc9">Resume</a>
+     👨‍💻 <a href="https://jacobharv.com/">Portfolio Site</a></br>
+     📄 <a href="https://postimg.cc/HrhKCfc9">Resume</a>
 </br>
 </br>
 </br>
