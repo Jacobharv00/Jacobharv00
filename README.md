@@ -1,12 +1,12 @@
 <div align="center">
   <h1> 🏄‍♂️ Hi there, I'm Jacob <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50px"></h1>
-     😄 Pronouns: He/Him </br>
-     🏔️ Based: Breckenridge, Colorado </br>
-     👨🏽‍💻 Currently working on: A new react-native app for iOS & Android</br>
-     🤔 🌱 Currently learning: C#, DotNet Web API, Entity Framework, DevOps(Bitrise), Solidity</br>
-     📚 🤍 😸 🎬 💪 🏄🏻‍♂️ 🎮  After hours: Reading dystopian books, watching movies with my wife & cats, surfing videos, exercise, video games </br>
-     👨‍💻 <a href="https://jacobharv.com/">Portfolio Site</a></br>
-     📄 <a href="https://postimg.cc/HrhKCfc9">Resume</a>
+     😄 Pronouns: He/Him </br></br>
+     🏔️ Based: Breckenridge, Colorado 🏔️</br></br>
+     👨🏽‍💻 Currently working on: A tasty new react-native cross-platform app, connecting food truck lovers and street vendors through location-based features.</br></br>
+     🌱 Currently learning: 🚀 Leveling up C# & .NET Web API proficiency to build resilient APIs. 🌐 Diving into Web3 development with Next, TypeScript & Solidity. 🗄️ Enhancing SQL, PostgreSQL & database management mastery.</br></br>
+     ⌛ After Hours: Immersed in dystopian tales, movie nights with my wife & feline friends, riding the video wave, staying active, and conquering virtual realms. 📚🎥🐱✨</br></br>
+     <a href="https://jacobharv.com/">👨‍💻 Portfolio Site 👨‍💻</a></br></br>
+     <a href="https://violet-drusilla-22.tiiny.site/">📄 Resume 📄</a>
 </br>
 </br>
 </br>
