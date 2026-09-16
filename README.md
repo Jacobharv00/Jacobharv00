@@ -30,7 +30,7 @@ Digital banking for credit unions, where no two credit unions want the same app.
 ### Stack
 
 **Mobile**<br>
-<img src="https://skillicons.dev/icons?i=react,expo,ts,redux" height="40" />
+<img src="https://skillicons.dev/icons?i=react,ts,redux" height="40" />
 
 **Web**<br>
 <img src="https://skillicons.dev/icons?i=nextjs,vue,tailwind,figma" height="40" />
@@ -41,7 +41,7 @@ Digital banking for credit unions, where no two credit unions want the same app.
 **Data**<br>
 <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,git" height="40" />
 
-Also SQL Server, Entity Framework, Dapper, React Native Web, EAS and Bitrise.
+Also Expo, SQL Server, Entity Framework, Dapper, React Native Web, EAS and Bitrise.
 
 ---
 
